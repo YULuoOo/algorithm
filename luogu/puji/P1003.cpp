@@ -1,5 +1,6 @@
-//P1003 铺地毯
-
+//
+// Created by 赵奕威 on 2019/9/10.
+//
 #include <iostream>
 #include <stdio.h>
 using namespace std;
